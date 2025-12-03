@@ -1,0 +1,11 @@
+Options,Score,Count,Percentage
+Recommend with Enthusiasm,5,3,14%
+Likely to Recommend,4,6,27%
+Recommend with Reservations,3,6,27%
+Unlikely to Recommend,2,5,23%
+Definitely not Recommend,1,2,9%
+Statistics,Value,,
+Response Ratio,65%,,
+Mean,3.14,,
+Median,3,,
+Standard Deviation,1.21,,

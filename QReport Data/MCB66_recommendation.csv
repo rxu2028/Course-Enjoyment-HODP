@@ -1,0 +1,6 @@
+Options,Score,Count,Percentage
+Recommend with Enthusiasm,5,15,50%
+Likely to Recommend,4,10,33%
+Recommend with Reservations,3,3,10%
+Unlikely to Recommend,2,2,7%
+Definitely not Recommend,1,0,0%
