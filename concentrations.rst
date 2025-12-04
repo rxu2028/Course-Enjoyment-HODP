@@ -1,4 +1,4 @@
-## Concentrations & courses (that represent people that are actually concentrating in subject based on requirements) - add sophomore tutorials to humanities $$
+## Concentrations & courses (that represent people that are actually concentrating in subject based on requirements) - add sophomore tutorials to humanities ##
 
 Government 
 GOV 20 (used 2024 Fall Data, more enrollment), GOV 50 (2024 Fall data, more enrollment), GOV 97, GOV 1510 (2023 Fall, only offered), GOV 1372 (2023 Fall, only offered) 
